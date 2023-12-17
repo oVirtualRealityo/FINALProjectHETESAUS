@@ -979,8 +979,8 @@ footer {
     background-color: var(--a-color-main-);
 }
 .artabout {
-    max-width: 90%;
-    width:940px;
+    max-width: 940px;
+    width:90%;
     margin: 1rem auto ;
     position: relative;  
     box-shadow: 10px 8px 12px var(--shade--06--l);
